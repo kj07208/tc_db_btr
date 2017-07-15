@@ -1,0 +1,2 @@
+﻿CREATE USER [TC-PROD-SQLSVR\themaster] FOR LOGIN [TC-PROD-SQLSVR\themaster];
+
